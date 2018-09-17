@@ -1,0 +1,15 @@
+{
+  "name": "realmfileserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuanyinchun",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.5.4",
+    "inert": "^5.1.0"
+  }
+}
