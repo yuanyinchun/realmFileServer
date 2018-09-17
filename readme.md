@@ -44,6 +44,6 @@ local server
 **Notice**
 
 _realm-sync-cocoa-3.9.1.tar.gz_ is the current version when I write this project, in
-the future realm may update this file's version. I will update this file at that time.
+the future realm team may update this file's version. Be careful with version number.
 
 Issue and PR are welcomed!
