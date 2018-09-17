@@ -14,6 +14,7 @@ of 100MB, so this file is not included in repo.
 
 you have to download this file yourself from [https://static.realm.io/downloads/sync/realm-sync-cocoa-3.9.1.tar.gz](https://static.realm.io/downloads/sync/realm-sync-cocoa-3.9.1.tar.gz)
 
+![screenshot](./public/image/copy2Folder.png)
 
 2.install dependency
 
